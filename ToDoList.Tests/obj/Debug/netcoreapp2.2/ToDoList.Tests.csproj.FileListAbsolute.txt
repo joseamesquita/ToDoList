@@ -1,0 +1,17 @@
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.csprojAssemblyReference.cache
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.csproj.CoreCompileInputs.cache
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.AssemblyInfoInputs.cache
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.AssemblyInfo.cs
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.Tests.deps.json
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.Tests.runtimeconfig.json
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.Tests.runtimeconfig.dev.json
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.Tests.dll
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.Tests.pdb
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.dll
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.pdb
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.csproj.CopyComplete
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.dll
+/Users/JoseAmesquita/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.pdb
